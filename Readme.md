@@ -3,4 +3,4 @@
 ###### Purpose:
    Whack a mole game using JS
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/javascript/whack-a-mole/).
+#### Check out the live app [here](https://shyam-brs.github.io/whack--a-rabbit--game/).
